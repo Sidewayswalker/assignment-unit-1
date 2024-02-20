@@ -1,13 +1,33 @@
 /* Add a background color to the header element */
-h1 {background-color:coral;}
+header {background-color:coral;}
 /* Add a fun background color to the main element */
-main {background-color:aqua;}
+main {background-color:blueviolet;}
 /* Align the h1 containing your name in the center of the header*/
 h1 {text-align: center;}
 /* Make your p tag a different color and italic */
-
+/* I had both p tags in my body & footer. I wanted to make them different so I added div tags to differentiate colors.
+/*p {
+    color: greenyellow;
+    font-style: italic;
+}*/
+#pictureexplanation {
+    color: #e1dd00;
+}
 /* Put a border around your image */
-
+#Creek_Bed_Photo {
+    width: 500px;
+    height: 600px;
+    border: 8px solid #33c7ac;
+}
 /* Change the font-family of your list */
-
+main {
+    font-family: "Arial", Helvetica, sans-serif;
+}
+#quotetext{
+    color: greenyellow;
+    font-style: italic;
+}
 /* Add a background color to the footer element */
+footer {
+    background-color: maroon;
+}
