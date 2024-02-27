@@ -18,6 +18,7 @@ h1 {text-align: center;}
     width: 500px;
     height: 600px;
     border: 8px solid #33c7ac;
+    padding: 5px;
 }
 /* Change the font-family of your list */
 main {
